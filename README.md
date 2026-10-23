@@ -4,7 +4,7 @@ Cloud-native, 100% automated YouTube video upload, metadata optimization, commen
 
 ## Channel Overview
 - **Owner Account:** `sheryarali0611@gmail.com`
-- **GitHub Account:** `sheryarali0611-arch`
+- **GitHub Account:** `saqibaliofficial1995-crypto`
 - **YouTube Channel:** `Historiana`
 - **Channel ID:** `UC2okK0Nex0qijQb1omY8x2Q`
 - **Initial Inbox Count:** 66 videos
